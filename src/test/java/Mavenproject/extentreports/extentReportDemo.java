@@ -39,5 +39,7 @@ public class extentReportDemo {
 		extent.flush();
 		
 	}
+@Test
+public new{}
 
 }
